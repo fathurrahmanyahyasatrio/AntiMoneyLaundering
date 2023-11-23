@@ -1,4 +1,5 @@
 # Anti Money Laundering using Graph Neural Networks
+Dataset: https://www.kaggle.com/code/issacchanjj/anti-money-laundering-detection-with-gnn
 
 ## Description 
 Money laundering is a significant problem involving billions of dollars. Detecting money laundering is challenging because automated algorithms often produce high false positive rates, flagging legitimate transactions as suspicious. Conversely, false negatives, where laundering transactions go undetected, are also a major issue. Criminals make efforts to conceal their illegal activities.
