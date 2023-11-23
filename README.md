@@ -1,4 +1,5 @@
 # Anti Money Laundering using Graph Neural Networks
+Link to dataset: https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml
 
 
 ## Description 
