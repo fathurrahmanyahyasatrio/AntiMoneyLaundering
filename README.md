@@ -1,6 +1,4 @@
 # Anti Money Laundering using Graph Neural Networks
-Link to dataset: https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml
-
 
 ## Description 
 Money laundering is a significant problem involving billions of dollars. Detecting money laundering is challenging because automated algorithms often produce high false positive rates, flagging legitimate transactions as suspicious. Conversely, false negatives, where laundering transactions go undetected, are also a major issue. Criminals make efforts to conceal their illegal activities.
@@ -18,3 +16,7 @@ This IBM generator models the entire money laundering process, including placeme
 Unlike real financial institutions, which only see their own transactions, these synthetic transactions create an entire financial ecosystem. This allows for the development of laundering detection models that understand transactions across institutions but can apply their findings to transactions at a specific bank.
 
 IBM has improved this data generator since its initial release, making it more realistic and resolving bugs.
+
+
+## Link to Dataset
+https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml
