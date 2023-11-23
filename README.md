@@ -1,4 +1,4 @@
-# AntiMoneyLaundering using Graph Neural Networks
+# Anti Money Laundering using Graph Neural Networks
 
 ## Description 
 Money laundering is a significant problem involving billions of dollars. Detecting money laundering is challenging because automated algorithms often produce high false positive rates, flagging legitimate transactions as suspicious. Conversely, false negatives, where laundering transactions go undetected, are also a major issue. Criminals make efforts to conceal their illegal activities.
